@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "信息": [
+    { "学号": 1, "抬头": "Post 1" },
+    { "学号": 2, "抬头": "Post 2" },
+    { "学号": 3, "抬头": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "内容": [
+    { "学号": 1, "身体": "some comment", "邮件号码": 1 },
+    { "学号": 2, "身体": "some comment", "邮件号码": 1 }
   ],
-  "profile": {
+  "特征": {
     "name": "typicode"
   }
 }
